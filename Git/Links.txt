@@ -1,4 +1,7 @@
-#Links úteis sobre Git
+Links úteis sobre Git
 
-###Download do Git
-[Git](https://git-scm.com/downloads)
+Download do Git
+https://git-scm.com/downloads
+
+Documentação:
+https://git-scm.com/docs
